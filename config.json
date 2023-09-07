@@ -1,0 +1,14 @@
+{
+  "PREFIX": "&",
+  "TOKEN": "",
+  "OWNER_ID": "665165194850336778",
+  "CLIENT_ID": "1148829424796569792",
+  "GUILD_ID": "1138341773639430216",
+  "NODES": [
+    {
+      "host": "lava.link",
+      "port": 80,
+      "password": "CodeX"
+    }
+  ]
+}
