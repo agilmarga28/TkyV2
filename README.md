@@ -1,14 +1,6 @@
-## 👋 THANKS TO THE EXTREMEZ CODER'S TEAM
-   
-   Discord Server - https://discord.gg/KDcyRr73JG
-  
-  Github - https://github.com/TheExrtemezCoder
-      
-  Repl - https://replit.com/@TheExtremezCoder
 
 ## 📑 Short Feature
 - [x] Music
-- [x] Custom Prefix
 - [x] SlashCommand
 - [x] Custom Filters
 - [x] No Database Requirement
@@ -29,8 +21,8 @@
 
 ## 🚨 Have a Problem
 
-✈ Join Discord:  [The Extremez ♪♪](https://discord.gg/KDcyRr73JG)
-   mention me in chat #general or #javascript and ask problem okay! 👌
+✈ Discord:  [ ANONIM]
+
 
 
 ## 📎 Requirements
@@ -67,8 +59,8 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 
 ```json
 {
-	"PREFIX": "#",
-	"TOKEN": "TOKEN_HERE",
+	"PREFIX": "&",
+	"TOKEN": "process.env.TOKEN",
 	"OWNER_ID": "YOUR_CLIENT_ID",
 	"CLIENT_ID": "YOUR_BOT_ID",
 	"GUILD_ID": "YOUR_GUILD_ID",
@@ -80,57 +72,16 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 
 ## 🔩 Features & Commands
 
-> Note: The default prefix is '#'
+> Note: The default prefix is '&'
 
 🎶 **Music Commands!** 
 
-- Play (#play, #p, #pplay)
-- Nowplaying (#nowplaying, #np, #now)
-- Queue (#q)
-- Repeat (#loop (current, all), #repeat (current, all))
-- Loopqueue (#loopall, #lq, repeatall)
-- Shuffle (#shuffle, mix)
-- Volume control (#vol, #v)
-- Pause (#pause, #pa)
-- Resume (#resume, #r)
-- Skip (#skip, #s)
-- Skipto (#skipto, #st)
-- Clear (#clear)
-- Join (#join, #summon)
-- Leave (#leave, #dc, #lev, #stop)
-- Forward (#forward)
-- Seek (#seek)
-- Rewind (#rewind)
-- Replay (#replay)
-- Search (#search)
-- 247 (#247)
-
-⏺ **Filter Commands!**
-- Bass (#bass)
-- Superbass (#superbass, #sb)
-- Pop (#pop)
-- Treblebass (#treblebass, #tb)
-- Soft (#soft)
-- Earrape (#earrape, #ear)
-- Equalizer (#eq <custom>)
-- Speed (#speed )
-- Picth (#pitch)
-- Vaporwave (#vaporwave)
-- Nightcore (#nightcore)
-- Bassboost (#bassboost <number -10 - 10>, #bb <number -10 - 10>)
-- Rate (#rate)
-- Reset (#reset)
-- 3d (#3d)
-- China (#china)
-- Dance (#dance)
-- Chipmunk (#chipmunk)
-- Darthvader (#darthvader)
-- DoubleTime (#doubletime)
-- SlowMotion (#slowmotion)
-- Tremolo (#tremolo)
-- Vibrate (#vibrate)
-- Vibrato (#vibrato)
-	
-📑 **Utilities Commands!**
-- restart (#restart, #stopbot)
-- help (#help, #halp)
+- Play (&play, & p, & pplay)
+- Nowplaying (&nowplaying, & np, & now)
+- Queue (&q)
+- Repeat (&loop (current, all), & repeat (current, all))
+- Loopqueue (&loopall, & lq, repeatall)
+- Shuffle (&shuffle, mix)
+- Volume control (&vol, & v)
+- Pause (&pause, &pa)
+- dst
