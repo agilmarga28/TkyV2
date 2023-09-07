@@ -18,13 +18,12 @@ module.exports = async (client) => {
     let channels = client.channels.cache.size;
 
     const activities = [
-        `${PREFIX}help | ${guilds} servers`,
-        `${PREFIX}play | ${users} users`,
-        `Dev : Anonim | ${channels} channels`, 
+        `${PREFIX}help | ${guilds} servers`, 
+        `Dev : Anonim | ${PREFIX} play`, 
     ]
 
     setInterval(() => {
         client.user.setActivity(`${activities[Math.floor(Math.random() * activities.length)]}`, { type: 'LISTENING' });
-    }, 15000)  
+    }, 10000)  
 
 };
